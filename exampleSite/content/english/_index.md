@@ -1,10 +1,8 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
+  title: BEACHFRONT LUXURY <br> APARTMENTS AND VILLAS
   image: "/images/dun-exteriores-lr-01.jpg"
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: Marbella beachfront luxury development
   button:
     enable: true
     label: Contact Us
